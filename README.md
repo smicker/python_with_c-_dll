@@ -2,9 +2,11 @@
 Elaboration of github/github actions during the analytics innovation week 2023
 
 # Installation
+```bash
 python -m venv venv
 . venv/bin/activate
 pip install -r requirements.txt
+```
 
 # Branch 5-build-pipeline notes:
 What I'm trying to do here is to mimic a project requiring a multi-stage build.

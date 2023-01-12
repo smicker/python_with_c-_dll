@@ -2,3 +2,4 @@ black
 flake8
 pytest
 pylint
+mypy
