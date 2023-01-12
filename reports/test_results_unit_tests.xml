@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="2" time="0.028" timestamp="2023-01-12T16:15:57.677576" hostname="lap5cg12258pp"><testcase classname="tests.test_code" name="test_dll_sum" time="0.001" /><testcase classname="tests.test_code" name="test_dll_sub" time="0.000" /></testsuite></testsuites>
